@@ -40,7 +40,7 @@ $$
 $$
 T = \begin{bmatrix}
 R & t \\
-0 & 1
+0^T & 1
 \end{bmatrix}
 $$
 - R：旋转矩阵。
@@ -64,7 +64,7 @@ f_x & 0 & c_x & 0 \\
 \times
 \begin{bmatrix}
 R & t \\
-0 & 1
+0^T & 1
 \end{bmatrix}
 \times
 \begin{bmatrix}
